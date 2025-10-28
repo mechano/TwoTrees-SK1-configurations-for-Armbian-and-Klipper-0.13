@@ -11,7 +11,7 @@ After install and configure Armbian, use Kiauh to install Klipper and some compo
 
 https://github.com/dw-0/kiauh
 
-To apply my config search files for user path, and change per the user you have created. I use as default /home/mks
+Some config files refer to the user path, find them and change per the user you have created. I use as default /home/mks
 
 To use the graph creation scripts you'll need numpy and matplotlib python's libraries, refer to error messages you'll receive when generation fails.
 
