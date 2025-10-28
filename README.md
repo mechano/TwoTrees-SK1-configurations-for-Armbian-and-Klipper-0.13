@@ -18,7 +18,7 @@ The display is not supported. So I used the CYD-Klipper display project for Klip
 
 https://github.com/suchmememanyskill/CYD-Klipper
 
-You have to compile and install both MCU and THR updated firmware refer to this video for info on how-to.
+You have to compile and flash both MCU and THR updated firmware refer to this video for info on how-to because it needs to solder an header to the THR's USB port.
 
 https://www.youtube.com/watch?v=FsllmCiCr3Y
 
