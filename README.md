@@ -13,6 +13,8 @@ https://github.com/dw-0/kiauh
 
 Some config files refer to the user path, find them and change per the user you have created. I use as default /home/mks
 
+I use Mainsail, so I don't have FLUIDD conf files.
+
 To use the graph creation scripts you'll need numpy and matplotlib python's libraries, refer to error messages you'll receive when generation fails.
 
 The display is not supported. So I used the CYD-Klipper display project for Klipper.
