@@ -23,6 +23,6 @@ You have to compile and flash both MCU and THR updated firmware refer to this vi
 https://www.youtube.com/watch?v=FsllmCiCr3Y
 
 Enjoy my macros and interesting mods, like the START_PRINT that avoids TPU jamming, belt tension and input shaping graphs, and so on.
-There're also some optimization to extruder voltage to avoid heating of the extruder's motor.
+There're also some optimization to extruder's motor current to avoid excessive heating.
 
-Correct the Z size to 256, I've 250mm due to the use of Oldham couplers.
+Correct the Z size to 256, I've 250mm due to the use of Oldham couplers on bed's screws.
