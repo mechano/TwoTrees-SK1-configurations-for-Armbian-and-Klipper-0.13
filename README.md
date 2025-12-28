@@ -1,4 +1,4 @@
-Finally my fully tandardizes firmware based on Armbian 25.11 and Klipper v0.13 is ready.
+Finally my fully standardized firmware based on Armbian 25.11 and Klipper v0.13 is ready.
 
 https://github.com/mechano/TwoTrees-SK1-Armbian-Klipper-Firmware
 
